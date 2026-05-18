@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#2B2A18"/>
+  <!-- Tent peak (canvas A-frame) -->
+  <path d="M10 50 L32 14 L54 50 Z" fill="none" stroke="#B8853A" stroke-width="2.4" stroke-linejoin="round"/>
+  <!-- Three tracking prints on the ground -->
+  <circle cx="20" cy="56" r="1.4" fill="#ECE3CC"/>
+  <circle cx="32" cy="56" r="1.4" fill="#ECE3CC"/>
+  <circle cx="44" cy="56" r="1.4" fill="#ECE3CC"/>
+  <!-- Centre waterhole ripple -->
+  <circle cx="32" cy="44" r="1.8" fill="#ECE3CC"/>
+</svg>
